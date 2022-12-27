@@ -23,6 +23,8 @@ There’s 2 questions in the task to help you get comfortable with python, do tr
 
 **Python Tasks:**
 
+- Check this recording out to get started with Python: [Link](https://youtu.be/j-dZTS0CU7I)
+
 - Create two vectors 𝑦 and 𝑦̂ having **the same** dimensions, where 𝑦̂ should
 consist of random numbers between [0,1) and 𝑦 should contain 0𝑠 and
 1𝑠, for example, 𝑦=[0,1,1,0,1,0,0,1,...,1]. Compute the given expression:
